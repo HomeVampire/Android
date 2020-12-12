@@ -1,0 +1,15 @@
+what I need to learn after Basic Python
+=======================================
+• Advanced Data Structur(List, Tuples, Strings, Dictionary, Numpu arrays)
+• Trees, Graphs, Quees, Stacks, LinkedList
+• Analysis of algorithm(Big o, Sorting algorithm)
+• Object Oriented Programming using Python
+• Problem Solving from(ProjectEuler, CodeWars, TopCoder, HackerRank)
+• To learn Python for web-development:
+	-Django/Flask and JS
+• To learn Python for Data-Analysis:
+	-Numpy, Pandas, MatplotLib
+• To learn Python for Machine Learning:
+	-Numpy, Pandas, Tensorflow, Keras, ScikitLearn, Theano
+	
+
